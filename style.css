@@ -4,7 +4,8 @@
 h1{
 font-size: 50px;
 color: var(--azul);
+text-align: center;
 }
-img{
-    align-items: ;
+.logo{
+    align-items: first baseline; 
 }
