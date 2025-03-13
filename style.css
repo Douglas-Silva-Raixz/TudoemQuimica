@@ -9,4 +9,5 @@ object-position: top;
 }
 .logo{
 object-position: top; 
+grid-template-columns: 35% 75%;
 }
