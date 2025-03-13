@@ -6,6 +6,8 @@ font-size: 50px;
 color: var(--azul);
 text-align: center;
 object-position: top;
+text-decoration: black;
+text-decoration-style: solid;
 }
 .logo{
 }
