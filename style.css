@@ -3,7 +3,6 @@
 }
 h1{
 font-size: 50px;
-font-weight: 500;
 color: var(--azul);
 text-align: center;
 object-position: top;
@@ -11,8 +10,7 @@ text-decoration-color: black;
 text-decoration-style: solid;
 }
 h2{
-font-size: 30px;
-font-weight: 250;
+font-size: 40px;
 color: var(--azul);
 text-align: center;
 }
