@@ -7,5 +7,5 @@ color: var(--azul);
 text-align: center;
 }
 .logo{
-    align-items: calc(10); 
+    object-position: top; 
 }
