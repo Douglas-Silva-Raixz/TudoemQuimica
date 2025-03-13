@@ -5,7 +5,8 @@ h1{
 font-size: 50px;
 color: var(--azul);
 text-align: center;
+object-position: top;
 }
 .logo{
-    object-position: top; 
+object-position: top; 
 }
