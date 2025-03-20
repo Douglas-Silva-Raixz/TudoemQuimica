@@ -21,3 +21,7 @@ font-size: 25px;
 .conteudo{
 align-items: center;
 }
+.fonte{
+    text-align: left;
+    font-size: 30px;
+}
