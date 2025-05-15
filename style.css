@@ -25,4 +25,8 @@ margin: 20px;
 .fonte{
     text-align: left;
     font-size: 20px;
+    font-style: italic;
+}
+.referencia{
+    text-align: center;
 }
