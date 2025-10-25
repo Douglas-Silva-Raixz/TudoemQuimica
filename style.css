@@ -24,11 +24,15 @@ main {
 }
 footer {
     background-color: var(--azul_1);
-    height: 100px;
+    
     width: 100%;
-    grid-column: 50%;
+   
    
     
+}
+.explicacao_site{
+     grid-column: 50%;
+     height: 50px;
 }
 footer p{
     color: white;
