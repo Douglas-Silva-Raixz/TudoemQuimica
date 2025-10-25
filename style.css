@@ -16,6 +16,7 @@ header{
     height: 75px;
 }
 .links_topo {
+    display: grid;
     grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     color: rgb(255, 255, 255);
     margin: 1rem;
@@ -36,6 +37,7 @@ footer {
     width: 150%;
 }
 .explicacao_site {
+    display: grid;
     height: 100px;
     width: 90%;
     grid-template-columns: 40% 33% 27%;
