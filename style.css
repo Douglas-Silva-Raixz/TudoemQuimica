@@ -16,6 +16,6 @@ header{
     height: 75px;
 }
 .link_topo {
-    text-align: right;
+    align-items: last baseline;
     color: white;
 }
