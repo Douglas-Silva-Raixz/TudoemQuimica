@@ -1,5 +1,5 @@
 :root {
-    --azul_1: #18009e;
+    --azul_1: #1800ad;
     --azul_2: #170870;
 }
 
@@ -10,5 +10,8 @@ header{
 }
 .topo_logo {
     background-color: var(--azul_1);
+    height: 75px;
+}
+.logo {
     height: 75px;
 }
