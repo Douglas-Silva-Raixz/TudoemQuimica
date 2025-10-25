@@ -24,12 +24,10 @@ main {
 }
 footer {
     background-color: var(--azul_1); 
+    height: 100px;
     width: 100%;
 }
-.explicacao_site{
-     grid-template-columns: 50%;
-     height: 50px;
-}
+
 footer p{
     color: white;
     margin: 1rem;
