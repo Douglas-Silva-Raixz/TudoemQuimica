@@ -26,6 +26,10 @@ footer {
     background-color: var(--azul_2);
     height: 100px;
     width: 100%;
+    
+}
+.texto_footer {
     color: white;
     font-style: italic;
+     margin: 0.5rem;
 }
