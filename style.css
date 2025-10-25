@@ -25,7 +25,7 @@ main {
 footer {
     background-color: var(--azul_1); 
     height: 100px;
-    width: 100%;
+    width: 150%;
 }
 .explicacao_site {
     height: 100px;
@@ -37,6 +37,10 @@ footer p{
     color: white;
     margin: 1rem;
     text-align: right;
+}
+.nota_final {
+    background-color: var(--azul_2);
+    height: 50px;
 }
 footer h2 {
     color: white;
