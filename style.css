@@ -1,0 +1,12 @@
+:root {
+    --azul_1: #170870;
+    --azul_2: #170870;
+}
+
+header{
+    background-color: var(--azul_2);
+    height: 90px;
+    padding-top: 0px;
+    border-radius: 7px;
+    width: 100%;
+}
