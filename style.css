@@ -20,7 +20,7 @@ header{
 }
 main {
     background-color: whitesmoke;
-    height: 10000px;
+    height: 1000px;
 }
 footer {
     background-color: var(--azul_2);
