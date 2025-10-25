@@ -23,12 +23,8 @@ main {
     height: 1000px;
 }
 footer {
-    background-color: var(--azul_1);
-    
+    background-color: var(--azul_1); 
     width: 100%;
-   
-   
-    
 }
 .explicacao_site{
      grid-template-columns: 50%;
