@@ -15,12 +15,19 @@ header{
 .logo {
     height: 75px;
 }
-.link_topo {
+.links_topo {
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     color: rgb(255, 255, 255);
+    margin: 1rem;
+
+}
+body {
+    display: grid;
 }
 main {
     background-color: whitesmoke;
     height: 1000px;
+
 }
 footer {
     background-color: var(--azul_1); 
@@ -30,7 +37,6 @@ footer {
 .explicacao_site {
     height: 100px;
     width: 90%;
-    display: grid;
     grid-template-columns: 40% 33% 27%;
 }
 footer p{
