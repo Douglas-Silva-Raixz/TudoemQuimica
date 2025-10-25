@@ -19,6 +19,7 @@ header{
     grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
     color: rgb(255, 255, 255);
     margin: 1rem;
+    margin-top: 2rem;
 
 }
 body {
