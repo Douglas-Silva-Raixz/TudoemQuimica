@@ -23,9 +23,10 @@ main {
     height: 1000px;
 }
 footer {
-    background-color: var(--azul_2);
+    background-color: var(--azul_1);
     height: 100px;
     width: 100%;
+    grid-column: 50%;
    
     
 }
