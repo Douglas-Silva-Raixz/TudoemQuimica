@@ -15,3 +15,7 @@ header{
 .logo {
     height: 75px;
 }
+.link_topo {
+    text-align: right;
+    color: white;
+}
