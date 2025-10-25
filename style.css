@@ -30,6 +30,7 @@ footer {
 .explicacao_site {
     height: 100px;
     width: 90%;
+    grid-template-columns: 50%;
 }
 footer p{
     color: white;
