@@ -26,11 +26,17 @@ footer {
     background-color: var(--azul_2);
     height: 100px;
     width: 100%;
-    text-align: center;
+   
     
 }
-.texto_footer {
+footer p{
+    color: white;
+    margin: 1rem;
+    text-align: right;
+}
+footer h2 {
     color: white;
     font-style: italic;
-     margin: 0.5rem;
+    margin: 1rem;
+    text-align: center;
 }
