@@ -18,6 +18,10 @@ header{
 .link_topo {
     color: rgb(255, 255, 255);
 }
+main {
+    background-color: whitesmoke;
+    height: 10000px;
+}
 footer {
     background-color: var(--azul_2);
     height: 300px;
