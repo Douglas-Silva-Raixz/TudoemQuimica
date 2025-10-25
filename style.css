@@ -31,7 +31,7 @@ footer {
     
 }
 .explicacao_site{
-     grid-column: 50%;
+     grid-template-columns: 50%;
      height: 50px;
 }
 footer p{
