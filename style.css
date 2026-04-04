@@ -1,6 +1,8 @@
 :root {
     --azul_1: #1800ad;
     --azul_2: #170870;
+    --claro: whitesmoke; 
+    --escuro: rgb(227, 229, 230);
 }
 
 header{
@@ -15,14 +17,6 @@ header{
 .logo {
     height: 75px;
 }
-.links_topo {
-    display: grid;
-    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
-    color: rgb(255, 255, 255);
-    margin: 1rem;
-    margin-top: 1.1rem;
-
-}
 body {
     display: grid;
 }
@@ -30,6 +24,31 @@ main {
     background-color: whitesmoke;
     height: 1000px;
 
+}
+.container_links{
+    background-color: white;
+    height: 150px;
+    box-sizing: border-box;
+    margin-right: 120px;
+    margin-left: 120px;
+    border: 1px solid var(--azul_2);
+    border-bottom-right-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem;
+    display:grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+article{
+    text-align: center;
+    height: 96px;
+    border: 1px solid var(--azul_2);
+    border-radius: 0.3rem;
+    margin: 20px;
+}
+.minilogos{
+    height: 55px;
+}
+.conteudo{
+    height: 96px;
 }
 footer {
     background-color: var(--azul_1); 
