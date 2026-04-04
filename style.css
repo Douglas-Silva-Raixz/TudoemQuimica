@@ -64,12 +64,6 @@ footer {
     height: 100px;
     width: 150%;
 }
-.explicacao_site {
-    display: grid;
-    height: 100px;
-    width: 90%;
-    grid-template-columns: 40% 33% 27%;
-}
 footer p{
     color: white;
     font-weight: bold;
